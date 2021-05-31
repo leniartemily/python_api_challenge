@@ -23,19 +23,19 @@ Open weather project can be found under [WeatherPy.ipynb]
 
 ## Images
 
-Latitude vs. Temperature
+#Latitude vs. Temperature
 This graph shows a perfect bell curve for May 28th. As latitude passes "0" the temperature begins to drop.
 ![image](https://user-images.githubusercontent.com/81319622/120232820-5bd08180-c222-11eb-81af-ce884dfa20d1.png)
 
-Latitude vs. Humidity
+#Latitude vs. Humidity
 This graph shows a scattered graph with no correlation at all.
 ![image](https://user-images.githubusercontent.com/81319622/120233264-693a3b80-c223-11eb-8bc4-f489c14ff1b2.png)
 
-Latitude vs. Cloudiness
+#Latitude vs. Cloudiness
 This graph showed no correlation between cloudiness and latitude.
 ![image](https://user-images.githubusercontent.com/81319622/120233210-43149b80-c223-11eb-998f-41df1dd824ba.png)
 
-Latitude vs. Wind
+#Latitude vs. Wind
 This graph forecast was scattered  as well ut for the most part showed low wind speeds with the exception of a few outliers.
 ![image](https://user-images.githubusercontent.com/81319622/120233284-748d6700-c223-11eb-8574-80c5ee129ab1.png)
 
